@@ -42,7 +42,7 @@ cp .env.example .env
 
 | Variable | Required | Description |
 |---|:---:|---|
-| `TELEGRAM_BOT_TOKEN` | yes | Token from 8958682703:AAHRUu3KfsWXcaNrpt1aHPI6G3Of9nRN3dM. |
+| `TELEGRAM_BOT_TOKEN` | yes | Token from @botfather
 | `LIDARR_URL` | yes | Base URL of your Lidarr, e.g. `http://localhost:8686`. |
 | `LIDARR_API_KEY` | yes | Lidarr → Settings → General → Security. |
 | `ALLOWED_CHAT_IDS` | no | Comma-separated whitelisted chat/channel ids. |
